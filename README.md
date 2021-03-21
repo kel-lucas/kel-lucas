@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kel_ucas/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kel_lucas)
 
-->>>Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kel-lucas.kel_lucas)
+->>> Feliz em vê-los por aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kel-lucas.kel_lucas)
+
+Sou um eterno estudante em programação, com foco em back-end e sempre lendo/aprendendo acerca das tecnologias e buscando novos desafios!!
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kel-lucas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
